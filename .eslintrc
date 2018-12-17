@@ -1,0 +1,9 @@
+{
+  "extends": "standard",
+  "rules": {
+    "no-extra-semi": "error",
+    "padded-blocks": "off",
+    "no-trailing-spaces": 0,
+    "semi": [2, "always"]
+  }
+}
